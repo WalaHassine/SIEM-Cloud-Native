@@ -6,7 +6,7 @@
 ![ISO 27001](https://img.shields.io/badge/Compliance-ISO%2FIEC%2027001%3A2022-green)
 ![Status](https://img.shields.io/badge/Environment-Azure%20Sandbox-orange)
 
-> End-of-internship project carried out at **SMARTOVATE LTD** (June – July 2026, 8 weeks): design and deployment of a centralized, cloud-native security monitoring solution, from log collection to automated incident response.
+> End-of-internship project carried out at **SMARTOVATE LTD** , design and deployment of a centralized, cloud-native security monitoring solution, from log collection to automated incident response.
 
 ---
 
